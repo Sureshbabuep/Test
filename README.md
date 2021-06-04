@@ -1,3 +1,5 @@
+New Message
+-----------------
 Our mission
 
 Helping Hands Community serves individuals at risk for COVID-19 and food insecurity, using technology to empower community organizations and local volunteers to deliver the essential supplies to those in need.
